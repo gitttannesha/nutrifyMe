@@ -1,0 +1,6 @@
+user_id,age,weight_kg,height_cm,sugar_level,diabetes,hypertension,activity_level
+1,25,70,175,90,0,0,moderate
+2,35,80,180,100,1,0,low
+3,45,90,170,110,0,1,high
+4,55,100,175,120,1,1,low
+5,65,75,165,95,0,0,moderate

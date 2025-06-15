@@ -1,0 +1,373 @@
+2025-04-21 13:35:58,578 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-21 13:35:59,856 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.115.97:5000
+2025-04-21 13:35:59,858 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 13:35:59,928 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-21 13:36:03,296 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-21 13:36:03,316 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 13:36:03,331 - werkzeug - INFO -  * Debugger PIN: 918-903-580
+2025-04-21 13:36:39,336 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\exec_code.py', reloading
+2025-04-21 13:36:39,359 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\runtime\\scriptrunner\\script_runner.py', reloading
+2025-04-21 13:36:39,840 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-21 13:36:45,104 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-21 13:36:45,145 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 13:36:45,154 - werkzeug - INFO -  * Debugger PIN: 918-903-580
+2025-04-21 13:37:16,850 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cv2\\__init__.py', reloading
+2025-04-21 13:37:16,854 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cv2\\__init__.py', reloading
+2025-04-21 13:37:16,861 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cv2\\config-3.py', reloading
+2025-04-21 13:37:16,867 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cv2\\config-3.py', reloading
+2025-04-21 13:37:16,870 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cv2\\config.py', reloading
+2025-04-21 13:37:16,874 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cv2\\config.py', reloading
+2025-04-21 13:37:17,755 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-21 13:37:23,533 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-21 13:37:23,557 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 13:37:23,561 - werkzeug - INFO -  * Debugger PIN: 918-903-580
+2025-04-21 13:37:34,642 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-21 13:37:35,973 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.115.97:5000
+2025-04-21 13:37:35,975 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 13:37:35,992 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-21 13:37:41,522 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-21 13:37:41,565 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 13:37:41,575 - werkzeug - INFO -  * Debugger PIN: 918-903-580
+2025-04-21 13:38:27,845 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyzbar\\__init__.py', reloading
+2025-04-21 13:38:27,848 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyzbar\\__init__.py', reloading
+2025-04-21 13:38:28,325 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-21 13:38:33,540 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-21 13:38:33,572 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 13:38:33,577 - werkzeug - INFO -  * Debugger PIN: 918-903-580
+2025-04-21 13:38:43,639 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\streamlit\\elements\\markdown.py', reloading
+2025-04-21 13:38:44,156 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-21 13:38:47,812 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-21 13:38:47,838 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 13:38:47,850 - werkzeug - INFO -  * Debugger PIN: 918-903-580
+2025-04-21 13:38:47,943 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:38:47] "GET /model/version HTTP/1.1" 200 -
+2025-04-21 13:38:50,017 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:38:50] "GET /health HTTP/1.1" 200 -
+2025-04-21 13:39:08,463 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:39:08] "GET /model/version HTTP/1.1" 200 -
+2025-04-21 13:39:10,591 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:39:10] "GET /health HTTP/1.1" 200 -
+2025-04-21 13:39:30,373 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:39:30] "GET /model/version HTTP/1.1" 200 -
+2025-04-21 13:39:32,519 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:39:32] "GET /health HTTP/1.1" 200 -
+2025-04-21 13:39:34,612 - __main__ - INFO - Prediction request received for barcode: 8901491366229
+2025-04-21 13:39:35,968 - __main__ - INFO - Prediction completed for barcode 8901491366229. Score: 63.35
+2025-04-21 13:39:35,970 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:39:35] "POST /predict HTTP/1.1" 200 -
+2025-04-21 13:52:20,656 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:52:20] "GET /model/version HTTP/1.1" 200 -
+2025-04-21 13:52:22,788 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:52:22] "GET /health HTTP/1.1" 200 -
+2025-04-21 13:52:35,063 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:52:35] "GET /model/version HTTP/1.1" 200 -
+2025-04-21 13:52:37,202 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:52:37] "GET /health HTTP/1.1" 200 -
+2025-04-21 13:52:43,942 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:52:43] "GET /model/version HTTP/1.1" 200 -
+2025-04-21 13:52:45,080 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:52:45] "GET /model/version HTTP/1.1" 200 -
+2025-04-21 13:52:46,265 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:52:46] "GET /model/version HTTP/1.1" 200 -
+2025-04-21 13:52:48,440 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:52:48] "GET /health HTTP/1.1" 200 -
+2025-04-21 13:52:54,078 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:52:54] "GET /model/version HTTP/1.1" 200 -
+2025-04-21 13:52:56,224 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:52:56] "GET /health HTTP/1.1" 200 -
+2025-04-21 13:53:00,017 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:53:00] "GET /model/version HTTP/1.1" 200 -
+2025-04-21 13:53:02,164 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:53:02] "GET /health HTTP/1.1" 200 -
+2025-04-21 13:53:16,685 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:53:16] "GET /model/version HTTP/1.1" 200 -
+2025-04-21 13:53:18,837 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:53:18] "GET /health HTTP/1.1" 200 -
+2025-04-21 13:53:25,545 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:53:25] "GET /model/version HTTP/1.1" 200 -
+2025-04-21 13:53:27,703 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:53:27] "GET /health HTTP/1.1" 200 -
+2025-04-21 13:54:35,089 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:54:35] "GET /model/version HTTP/1.1" 200 -
+2025-04-21 13:54:37,252 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:54:37] "GET /health HTTP/1.1" 200 -
+2025-04-21 13:54:39,324 - __main__ - INFO - Prediction request received for barcode: 8901491366229
+2025-04-21 13:54:50,472 - __main__ - ERROR - Connection error: Failed to fetch product data: HTTPSConnectionPool(host='world.openfoodfacts.org', port=443): Max retries exceeded with url: /api/v0/product/8901491366229.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001CF30D96FD0>: Failed to resolve 'world.openfoodfacts.org' ([Errno 11001] getaddrinfo failed)"))
+2025-04-21 13:54:50,476 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:54:50] "[35m[1mPOST /predict HTTP/1.1[0m" 503 -
+2025-04-21 13:54:59,890 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:54:59] "GET /model/version HTTP/1.1" 200 -
+2025-04-21 13:55:02,051 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:55:02] "GET /health HTTP/1.1" 200 -
+2025-04-21 13:55:18,993 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:55:18] "GET /model/version HTTP/1.1" 200 -
+2025-04-21 13:55:21,153 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:55:21] "GET /health HTTP/1.1" 200 -
+2025-04-21 13:55:23,241 - __main__ - INFO - Prediction request received for barcode: 8901491366229
+2025-04-21 13:55:33,292 - __main__ - ERROR - Connection error: Failed to fetch product data: HTTPSConnectionPool(host='world.openfoodfacts.org', port=443): Max retries exceeded with url: /api/v0/product/8901491366229.json (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CF2DE08550>, 'Connection to world.openfoodfacts.org timed out. (connect timeout=10)'))
+2025-04-21 13:55:33,296 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:55:33] "[35m[1mPOST /predict HTTP/1.1[0m" 503 -
+2025-04-21 13:59:11,916 - __main__ - INFO - Prediction request received for barcode: 8901491366229
+2025-04-21 13:59:23,038 - __main__ - ERROR - Connection error: Failed to fetch product data: HTTPSConnectionPool(host='world.openfoodfacts.org', port=443): Max retries exceeded with url: /api/v0/product/8901491366229.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001CF30D96D50>: Failed to resolve 'world.openfoodfacts.org' ([Errno 11001] getaddrinfo failed)"))
+2025-04-21 13:59:23,041 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 13:59:23] "[35m[1mPOST /predict HTTP/1.1[0m" 503 -
+2025-04-21 14:12:38,111 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-21 14:12:38,997 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.115.97:5000
+2025-04-21 14:12:38,999 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 14:12:39,026 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-21 14:12:41,486 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-21 14:12:41,501 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 14:12:41,505 - werkzeug - INFO -  * Debugger PIN: 918-903-580
+2025-04-21 14:36:14,652 - werkzeug - INFO -  * Detected change in 'D:\\nutrifymeeee\\backend\\app.py', reloading
+2025-04-21 14:36:14,701 - werkzeug - INFO -  * Detected change in 'D:\\nutrifymeeee\\backend\\utils.py', reloading
+2025-04-21 14:36:15,578 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-21 14:36:18,203 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-21 14:36:18,220 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 14:36:18,223 - werkzeug - INFO -  * Debugger PIN: 918-903-580
+2025-04-21 15:09:31,414 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-21 15:09:32,335 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.4.42:5000
+2025-04-21 15:09:32,336 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 15:09:32,366 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-21 15:09:35,832 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-21 15:09:35,852 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 15:09:35,857 - werkzeug - INFO -  * Debugger PIN: 918-903-580
+2025-04-21 15:10:28,314 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cv2\\config.py', reloading
+2025-04-21 15:10:28,316 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cv2\\config-3.py', reloading
+2025-04-21 15:10:29,476 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-21 15:10:34,444 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-21 15:10:34,478 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 15:10:34,490 - werkzeug - INFO -  * Debugger PIN: 918-903-580
+2025-04-22 14:31:17,504 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-22 14:31:17,588 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.201.97:5000
+2025-04-22 14:31:17,589 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-22 14:31:17,615 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-22 14:31:20,246 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-22 14:31:20,266 - werkzeug - WARNING -  * Debugger is active!
+2025-04-22 14:31:20,272 - werkzeug - INFO -  * Debugger PIN: 185-622-899
+2025-04-22 14:32:06,807 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cv2\\config.py', reloading
+2025-04-22 14:32:06,820 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\cv2\\config-3.py', reloading
+2025-04-22 14:32:07,697 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-22 14:32:10,042 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-22 14:32:10,061 - werkzeug - WARNING -  * Debugger is active!
+2025-04-22 14:32:10,065 - werkzeug - INFO -  * Debugger PIN: 185-622-899
+2025-04-22 14:32:10,231 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:32:10] "GET /model/version HTTP/1.1" 200 -
+2025-04-22 14:32:12,311 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\sklearn\\utils\\validation.py', reloading
+2025-04-22 14:32:12,328 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:32:12] "GET /health HTTP/1.1" 200 -
+2025-04-22 14:32:13,458 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-22 14:32:16,288 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-22 14:32:16,306 - werkzeug - WARNING -  * Debugger is active!
+2025-04-22 14:32:16,310 - werkzeug - INFO -  * Debugger PIN: 185-622-899
+2025-04-22 14:32:21,627 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:32:21] "GET /model/version HTTP/1.1" 200 -
+2025-04-22 14:32:22,997 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:32:22] "GET /model/version HTTP/1.1" 200 -
+2025-04-22 14:32:25,068 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:32:25] "GET /health HTTP/1.1" 200 -
+2025-04-22 14:32:28,882 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:32:28] "GET /model/version HTTP/1.1" 200 -
+2025-04-22 14:32:30,984 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:32:30] "GET /health HTTP/1.1" 200 -
+2025-04-22 14:32:33,693 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:32:33] "GET /model/version HTTP/1.1" 200 -
+2025-04-22 14:32:35,805 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:32:35] "GET /health HTTP/1.1" 200 -
+2025-04-22 14:32:39,656 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:32:39] "GET /model/version HTTP/1.1" 200 -
+2025-04-22 14:32:41,737 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:32:41] "GET /health HTTP/1.1" 200 -
+2025-04-22 14:33:02,647 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:33:02] "GET /model/version HTTP/1.1" 200 -
+2025-04-22 14:33:04,763 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:33:04] "GET /health HTTP/1.1" 200 -
+2025-04-22 14:33:06,823 - __main__ - INFO - Prediction request received for barcode: 8901058005233
+2025-04-22 14:33:06,836 - __main__ - ERROR - Connection error: Failed to fetch product data: HTTPSConnectionPool(host='world.openfoodfacts.org', port=443): Max retries exceeded with url: /api/v0/product/8901058005233.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000021D181C6A50>: Failed to resolve 'world.openfoodfacts.org' ([Errno 11001] getaddrinfo failed)"))
+2025-04-22 14:33:06,842 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:33:06] "[35m[1mPOST /predict HTTP/1.1[0m" 503 -
+2025-04-22 14:34:20,876 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-22 14:34:20,907 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.201.97:5000
+2025-04-22 14:34:20,908 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-22 14:34:20,920 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-22 14:34:23,296 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-04-22 14:34:23,315 - werkzeug - WARNING -  * Debugger is active!
+2025-04-22 14:34:23,319 - werkzeug - INFO -  * Debugger PIN: 185-622-899
+2025-04-22 14:34:56,421 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:34:56] "GET /model/version HTTP/1.1" 200 -
+2025-04-22 14:34:58,526 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:34:58] "GET /health HTTP/1.1" 200 -
+2025-04-22 14:35:22,601 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:35:22] "GET /model/version HTTP/1.1" 200 -
+2025-04-22 14:35:24,711 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:35:24] "GET /health HTTP/1.1" 200 -
+2025-04-22 14:35:58,369 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:35:58] "GET /model/version HTTP/1.1" 200 -
+2025-04-22 14:36:00,465 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:36:00] "GET /health HTTP/1.1" 200 -
+2025-04-22 14:36:02,558 - __main__ - INFO - Prediction request received for barcode: 8901058005233
+2025-04-22 14:36:02,571 - __main__ - ERROR - Connection error: Failed to fetch product data: HTTPSConnectionPool(host='world.openfoodfacts.org', port=443): Max retries exceeded with url: /api/v0/product/8901058005233.json (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000192163B2A50>: Failed to resolve 'world.openfoodfacts.org' ([Errno 11001] getaddrinfo failed)"))
+2025-04-22 14:36:02,574 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:36:02] "[35m[1mPOST /predict HTTP/1.1[0m" 503 -
+2025-04-22 14:36:12,886 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:36:12] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2025-04-22 14:36:13,134 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2025 14:36:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-20 02:49:46,995 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 02:49:47,901 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.168.97:5000
+2025-05-20 02:49:47,902 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-20 02:49:47,918 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-20 02:49:50,027 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 02:49:50,037 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 02:49:50,041 - werkzeug - INFO -  * Debugger PIN: 368-470-621
+2025-05-20 02:50:20,911 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\threading.py', reloading
+2025-05-20 02:50:21,475 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-20 02:50:23,513 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 02:50:23,522 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 02:50:23,527 - werkzeug - INFO -  * Debugger PIN: 368-470-621
+2025-05-20 02:50:23,580 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:50:23] "GET /model/version HTTP/1.1" 200 -
+2025-05-20 02:50:25,680 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:50:25] "GET /health HTTP/1.1" 200 -
+2025-05-20 02:50:35,032 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:50:35] "GET /model/version HTTP/1.1" 200 -
+2025-05-20 02:50:37,116 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:50:37] "GET /health HTTP/1.1" 200 -
+2025-05-20 02:50:49,974 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:50:49] "GET /model/version HTTP/1.1" 200 -
+2025-05-20 02:50:52,046 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:50:52] "GET /health HTTP/1.1" 200 -
+2025-05-20 02:50:54,117 - __main__ - INFO - Prediction request received for barcode: 8906010502973
+2025-05-20 02:50:57,186 - __main__ - INFO - Prediction completed for barcode 8906010502973. Score: 63.35
+2025-05-20 02:50:57,187 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:50:57] "POST /predict HTTP/1.1" 200 -
+2025-05-20 02:51:09,231 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:51:09] "GET /model/version HTTP/1.1" 200 -
+2025-05-20 02:51:11,334 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:51:11] "GET /health HTTP/1.1" 200 -
+2025-05-20 02:52:49,948 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:52:49] "GET /model/version HTTP/1.1" 200 -
+2025-05-20 02:52:52,031 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:52:52] "GET /health HTTP/1.1" 200 -
+2025-05-20 02:52:58,478 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:52:58] "GET /model/version HTTP/1.1" 200 -
+2025-05-20 02:53:00,580 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:53:00] "GET /health HTTP/1.1" 200 -
+2025-05-20 02:53:06,404 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:53:06] "GET /model/version HTTP/1.1" 200 -
+2025-05-20 02:53:08,536 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:53:08] "GET /health HTTP/1.1" 200 -
+2025-05-20 02:53:50,650 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:53:50] "GET /model/version HTTP/1.1" 200 -
+2025-05-20 02:53:52,734 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:53:52] "GET /health HTTP/1.1" 200 -
+2025-05-20 02:53:54,791 - __main__ - INFO - Prediction request received for barcode: 8906010502973
+2025-05-20 02:53:56,096 - __main__ - INFO - Prediction completed for barcode 8906010502973. Score: 63.35
+2025-05-20 02:53:56,105 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:53:56] "POST /predict HTTP/1.1" 200 -
+2025-05-20 02:54:03,007 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:54:03] "GET /model/version HTTP/1.1" 200 -
+2025-05-20 02:54:05,104 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:54:05] "GET /health HTTP/1.1" 200 -
+2025-05-20 02:54:16,980 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:54:16] "GET /model/version HTTP/1.1" 200 -
+2025-05-20 02:54:19,087 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:54:19] "GET /health HTTP/1.1" 200 -
+2025-05-20 02:54:21,163 - __main__ - INFO - Prediction request received for barcode: 8906010502232
+2025-05-20 02:54:22,346 - __main__ - INFO - Prediction completed for barcode 8906010502232. Score: 63.35
+2025-05-20 02:54:22,349 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 02:54:22] "POST /predict HTTP/1.1" 200 -
+2025-05-20 03:01:32,588 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 03:01:33,483 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.168.97:5000
+2025-05-20 03:01:33,484 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-20 03:01:33,507 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-20 03:01:35,485 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 03:01:35,496 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 03:01:35,503 - werkzeug - INFO -  * Debugger PIN: 368-470-621
+2025-05-20 03:10:34,470 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 03:10:34] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-20 03:10:48,257 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 03:10:48] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-20 03:11:08,457 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 03:11:08] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-20 03:17:54,428 - werkzeug - INFO -  * Detected change in 'D:\\nutrifymeeee\\backend\\data\\create_interactions.py', reloading
+2025-05-20 03:17:54,429 - werkzeug - INFO -  * Detected change in 'D:\\nutrifymeeee\\backend\\data\\create_products.py', reloading
+2025-05-20 03:17:54,430 - werkzeug - INFO -  * Detected change in 'D:\\nutrifymeeee\\backend\\data\\create_user_profiles.py', reloading
+2025-05-20 03:17:54,818 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-20 03:17:57,978 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 03:17:57,991 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 03:17:58,000 - werkzeug - INFO -  * Debugger PIN: 368-470-621
+2025-05-20 03:32:45,451 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 03:32:46,319 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.168.97:5000
+2025-05-20 03:32:46,320 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-20 03:32:46,354 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-20 03:32:48,417 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 03:32:48,428 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 03:32:48,433 - werkzeug - INFO -  * Debugger PIN: 368-470-621
+2025-05-20 03:33:48,843 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 03:33:48] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-20 03:33:49,077 - __main__ - INFO - Prediction request received for barcode: 8906010502973
+2025-05-20 03:33:50,158 - __main__ - INFO - Prediction completed for barcode 8906010502973. Score: 45.34
+2025-05-20 03:33:50,160 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 03:33:50] "POST /predict HTTP/1.1" 200 -
+2025-05-20 03:35:08,535 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 03:35:08] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-20 03:35:08,789 - __main__ - INFO - Prediction request received for barcode: 8901063093522
+2025-05-20 03:35:09,612 - __main__ - INFO - Prediction completed for barcode 8901063093522. Score: 43.87
+2025-05-20 03:35:09,613 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 03:35:09] "POST /predict HTTP/1.1" 200 -
+2025-05-20 03:35:50,252 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 03:35:50] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-20 03:35:50,586 - __main__ - INFO - Prediction request received for barcode: 8901063093522
+2025-05-20 03:35:51,413 - __main__ - INFO - Prediction completed for barcode 8901063093522. Score: 43.58
+2025-05-20 03:35:51,415 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 03:35:51] "POST /predict HTTP/1.1" 200 -
+2025-05-20 03:36:30,365 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 03:36:30] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-20 03:36:30,680 - __main__ - INFO - Prediction request received for barcode: 8901063093522
+2025-05-20 03:36:31,586 - __main__ - INFO - Prediction completed for barcode 8901063093522. Score: 59.48
+2025-05-20 03:36:31,587 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 03:36:31] "POST /predict HTTP/1.1" 200 -
+2025-05-20 10:26:22,279 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 10:26:23,214 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.98.97:5000
+2025-05-20 10:26:23,215 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-20 10:26:23,251 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-20 10:26:26,642 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 10:26:26,671 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 10:26:26,686 - werkzeug - INFO -  * Debugger PIN: 368-470-621
+2025-05-20 10:29:11,341 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:29:11] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-20 10:29:11,589 - __main__ - INFO - Prediction request received for barcode: 8901764092800
+2025-05-20 10:29:12,448 - werkzeug - INFO -  * Detected change in 'D:\\nutrifymeeee\\venv\\Lib\\site-packages\\sklearn\\utils\\validation.py', reloading
+2025-05-20 10:29:12,527 - __main__ - INFO - Prediction completed for barcode 8901764092800. Score: 62.27
+2025-05-20 10:29:12,529 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:29:12] "POST /predict HTTP/1.1" 200 -
+2025-05-20 10:29:14,362 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-20 10:29:18,904 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 10:29:18,919 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 10:29:18,925 - werkzeug - INFO -  * Debugger PIN: 368-470-621
+2025-05-20 10:30:40,032 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:30:40] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-20 10:30:40,286 - __main__ - INFO - Prediction request received for barcode: 0075779311145
+2025-05-20 10:30:41,813 - __main__ - INFO - Prediction completed for barcode 0075779311145. Score: 62.38
+2025-05-20 10:30:41,815 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:30:41] "POST /predict HTTP/1.1" 200 -
+2025-05-20 10:31:21,672 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:31:21] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-20 10:31:21,993 - __main__ - INFO - Prediction request received for barcode: 8901764092800
+2025-05-20 10:31:23,112 - __main__ - INFO - Prediction completed for barcode 8901764092800. Score: 62.27
+2025-05-20 10:31:23,115 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:31:23] "POST /predict HTTP/1.1" 200 -
+2025-05-20 10:31:49,749 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:31:49] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-20 10:31:50,061 - __main__ - INFO - Prediction request received for barcode: 8906010502973
+2025-05-20 10:31:51,067 - __main__ - INFO - Prediction completed for barcode 8906010502973. Score: 62.38
+2025-05-20 10:31:51,069 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:31:51] "POST /predict HTTP/1.1" 200 -
+2025-05-20 10:32:32,997 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:32:32] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-20 10:32:33,310 - __main__ - INFO - Prediction request received for barcode: 8901719123429
+2025-05-20 10:32:34,489 - __main__ - INFO - Prediction completed for barcode 8901719123429. Score: 52.83
+2025-05-20 10:32:34,492 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:32:34] "POST /predict HTTP/1.1" 200 -
+2025-05-20 10:33:35,458 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:33:35] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-20 10:33:35,707 - __main__ - INFO - Prediction request received for barcode: 8901719123429
+2025-05-20 10:33:37,360 - __main__ - INFO - Prediction completed for barcode 8901719123429. Score: 36.21
+2025-05-20 10:33:37,368 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:33:37] "POST /predict HTTP/1.1" 200 -
+2025-05-20 10:35:11,414 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 10:35:12,315 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.98.97:5000
+2025-05-20 10:35:12,315 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-20 10:35:12,345 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-20 10:35:14,831 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 10:35:14,842 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 10:35:14,848 - werkzeug - INFO -  * Debugger PIN: 368-470-621
+2025-05-20 10:35:44,436 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\threading.py', reloading
+2025-05-20 10:35:44,879 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-20 10:35:47,406 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 10:35:47,417 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 10:35:47,422 - werkzeug - INFO -  * Debugger PIN: 368-470-621
+2025-05-20 10:35:47,489 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:35:47] "GET /model/version HTTP/1.1" 200 -
+2025-05-20 10:35:49,556 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:35:49] "GET /health HTTP/1.1" 200 -
+2025-05-20 10:35:58,641 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:35:58] "GET /model/version HTTP/1.1" 200 -
+2025-05-20 10:36:00,762 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:36:00] "GET /health HTTP/1.1" 200 -
+2025-05-20 10:36:04,207 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:36:04] "GET /model/version HTTP/1.1" 200 -
+2025-05-20 10:36:06,318 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:36:06] "GET /health HTTP/1.1" 200 -
+2025-05-20 10:36:20,460 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:36:20] "GET /model/version HTTP/1.1" 200 -
+2025-05-20 10:36:22,580 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:36:22] "GET /health HTTP/1.1" 200 -
+2025-05-20 10:36:24,655 - __main__ - INFO - Prediction request received for barcode: 8906010502973
+2025-05-20 10:36:26,051 - __main__ - INFO - Prediction completed for barcode 8906010502973. Score: 47.88
+2025-05-20 10:36:26,054 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 10:36:26] "POST /predict HTTP/1.1" 200 -
+2025-05-20 10:44:44,451 - werkzeug - INFO -  * Detected change in 'D:\\nutrifymeeee\\backend\\utils.py', reloading
+2025-05-20 10:44:45,783 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-20 10:44:48,122 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 10:44:48,134 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 10:44:48,139 - werkzeug - INFO -  * Debugger PIN: 368-470-621
+2025-05-20 10:44:48,202 - werkzeug - INFO -  * Detected change in 'D:\\nutrifymeeee\\venv\\Lib\\site-packages\\pyzbar\\__init__.py', reloading
+2025-05-20 10:44:48,202 - werkzeug - INFO -  * Detected change in 'D:\\nutrifymeeee\\venv\\Lib\\site-packages\\pyzbar\\zbar_library.py', reloading
+2025-05-20 10:44:48,322 - werkzeug - INFO -  * Detected change in 'D:\\nutrifymeeee\\venv\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py', reloading
+2025-05-20 10:44:48,337 - werkzeug - INFO -  * Detected change in 'D:\\nutrifymeeee\\venv\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py', reloading
+2025-05-20 10:44:48,500 - werkzeug - INFO -  * Detected change in 'D:\\nutrifymeeee\\venv\\Lib\\site-packages\\numpy\\_typing\\_scalars.py', reloading
+2025-05-20 10:44:48,812 - werkzeug - INFO -  * Detected change in 'D:\\nutrifymeeee\\venv\\Lib\\site-packages\\streamlit\\elements\\spinner.py', reloading
+2025-05-20 10:44:49,117 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\concurrent\\__init__.py', reloading
+2025-05-20 10:44:49,135 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\idlelib\\__init__.py', reloading
+2025-05-20 10:44:49,161 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\test\\__init__.py', reloading
+2025-05-20 10:44:49,177 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\turtledemo\\__init__.py', reloading
+2025-05-20 10:44:49,192 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\wsgiref\\__init__.py', reloading
+2025-05-20 10:44:49,195 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\xmlrpc\\__init__.py', reloading
+2025-05-20 10:44:49,211 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Mohammad Sami\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\__phello__\\__init__.py', reloading
+2025-05-20 10:44:49,626 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-20 10:44:52,093 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 10:44:52,123 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 10:44:52,131 - werkzeug - INFO -  * Debugger PIN: 368-470-621
+2025-05-20 11:22:39,273 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 11:22:40,195 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.6.53:5000
+2025-05-20 11:22:40,197 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-20 11:22:40,250 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-20 11:22:43,128 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 11:22:43,141 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 11:22:43,148 - werkzeug - INFO -  * Debugger PIN: 368-470-621
+2025-05-20 11:41:41,568 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 11:41:41] "OPTIONS /predict HTTP/1.1" 200 -
+2025-05-20 11:41:41,826 - __main__ - INFO - Prediction request received for barcode: 8906010502973
+2025-05-20 11:41:43,013 - werkzeug - INFO -  * Detected change in 'D:\\nutrifymeeee\\venv\\Lib\\site-packages\\sklearn\\utils\\validation.py', reloading
+2025-05-20 11:41:43,047 - __main__ - INFO - Prediction completed for barcode 8906010502973. Score: 61.07
+2025-05-20 11:41:43,049 - werkzeug - INFO - 127.0.0.1 - - [20/May/2025 11:41:43] "POST /predict HTTP/1.1" 200 -
+2025-05-20 11:41:44,663 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-20 11:41:50,353 - __main__ - INFO - Successfully loaded model from D:\nutrifymeeee\model/health_score_model.pkl
+2025-05-20 11:41:50,377 - werkzeug - WARNING -  * Debugger is active!
+2025-05-20 11:41:50,391 - werkzeug - INFO -  * Debugger PIN: 368-470-621
